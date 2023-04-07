@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My Progress in Programming"
+title: "E4: My Progress in Programming"
 # All dates must be YYYY-MM-DD format!
 date: 2023-04-07
 published: true
