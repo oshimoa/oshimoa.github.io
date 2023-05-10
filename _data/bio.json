@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "Avery Oshimo",
+    "label": "Student",
+    "picture": "https://github.com/oshimoa.png",
+    "email": "oshimoa@hawaii.edu",
+    "phone": "808-206-4833",
+    "website": "https://oshimoa.github.io",
+    "summary": "I am pursuing a BBA in Management Information Systems from the Shidler College of Business. I expect to graduate in Spring 2024.",
+    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "oshimoa", "url": "http://github.com/oshimoa" },
+      { "network": "linkedin", "username": "avery-oshimo", "url": "http://linkedin.com/in/avery-oshimo" },
+      { "network": "instagram", "username": "avery.838", "url": "http://instagram.com/avery.838" }
+    ]
+  },
+  "interests": [
+    { "name": "Gardening" },
+    { "name": "Traveling" },
+    { "name": "Baking" },
+    { "name": "and Marketing Research" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Java", "Javascript", "CSS", "HTML", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows10", "Git/GitHub", "Tableu" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Management Information Systems (expected Spring, 2024)",
+      "studyType": "BBA",
+      "startDate": "2022-08-22",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "L&L Hawaiian Barbecue",
+      "position": "Customer Experience Assistant",
+      "website": "",
+      "startDate": "2022-10-01",
+      "endDate": "Present",
+      "summary": "Manage and present data about customer relations",
+      "highlights": [
+        "Maintain, update, and oversee customer and franchisee relationships"
+        ]
+    }
+  ],
+  
+  "awards": [
+    {
+      "title": "Shidler Alumni Association Endowed Scholarship",
+      "date": "2022-Present",
+      "awarder": "Shidler Alumni Association",
+      "summary": ""
+    },
+    {
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2022-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
